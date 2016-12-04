@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7706" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="480" height="320"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bg_title-hd.png" translatesAutoresizingMaskIntoConstraints="NO" id="1CB-Ee-cOy">
+                    <rect key="frame" x="0.0" y="0.0" width="480" height="320"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="lb_title-hd.png" translatesAutoresizingMaskIntoConstraints="NO" id="xe2-eN-jlp">
+                    <rect key="frame" x="68" y="2" width="322" height="120"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="lb_fan-hd.png" translatesAutoresizingMaskIntoConstraints="NO" id="tht-AV-1eI">
+                    <rect key="frame" x="123" y="105" width="234" height="134"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="hWO-c5-uHZ">
+                    <rect key="frame" x="0.0" y="288" width="480" height="32"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="lb_bg_best-hd.png" translatesAutoresizingMaskIntoConstraints="NO" id="xU5-Z5-HM4">
+                    <rect key="frame" x="-2" y="243" width="484" height="42"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bt_leaderboard-hd.png" translatesAutoresizingMaskIntoConstraints="NO" id="VVC-cQ-NFZ">
+                    <rect key="frame" x="47" y="246" width="36" height="36"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bt_moregames-hd.png" translatesAutoresizingMaskIntoConstraints="NO" id="9pq-Em-d7p">
+                    <rect key="frame" x="93" y="245" width="90" height="38"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bt_share-hd.png" translatesAutoresizingMaskIntoConstraints="NO" id="EWR-J7-Guc">
+                    <rect key="frame" x="195" y="245" width="90" height="38"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bt_music_on-hd.png" translatesAutoresizingMaskIntoConstraints="NO" id="LQK-pd-Pn1">
+                    <rect key="frame" x="299" y="246" width="36" height="36"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bt_sound_on-hd.png" translatesAutoresizingMaskIntoConstraints="NO" id="VyW-7l-gDg">
+                    <rect key="frame" x="347" y="246" width="36" height="36"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bt_help-hd.png" translatesAutoresizingMaskIntoConstraints="NO" id="eTF-1g-0j8">
+                    <rect key="frame" x="397" y="246" width="36" height="36"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="lb_ink_1-hd.png" translatesAutoresizingMaskIntoConstraints="NO" id="hRE-J4-rRR">
+                    <rect key="frame" x="123" y="105" width="234" height="134"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bt_play-hd.png" translatesAutoresizingMaskIntoConstraints="NO" id="VWD-tL-Q5Y">
+                    <rect key="frame" x="123" y="105" width="234" height="134"/>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="bg_title-hd.png" width="960" height="640"/>
+        <image name="bt_help-hd.png" width="72" height="72"/>
+        <image name="bt_leaderboard-hd.png" width="72" height="72"/>
+        <image name="bt_moregames-hd.png" width="180" height="76"/>
+        <image name="bt_music_on-hd.png" width="72" height="72"/>
+        <image name="bt_play-hd.png" width="468" height="268"/>
+        <image name="bt_share-hd.png" width="180" height="76"/>
+        <image name="bt_sound_on-hd.png" width="72" height="72"/>
+        <image name="lb_bg_best-hd.png" width="968" height="84"/>
+        <image name="lb_fan-hd.png" width="468" height="268"/>
+        <image name="lb_ink_1-hd.png" width="468" height="268"/>
+        <image name="lb_title-hd.png" width="644" height="240"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

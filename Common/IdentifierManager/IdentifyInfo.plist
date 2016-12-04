@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kVZIdentifyIAdBannerID</key>
+	<string>1173790597</string>
+	<key>kVZIdentifyIAdInterstitalID</key>
+	<string>1173790597</string>
+	<key>kVZIdentifyAdmobBannerID</key>
+	<string>ca-app-pub-3464821182263759/1153142422</string>
+	<key>kVZIdentifyAdmobInterstitalID</key>
+	<string>ca-app-pub-3464821182263759/5583342027</string>
+	<key>kVZIdentifyLeaderboards</key>
+	<array>
+		<string>mahjong.stars</string>
+	</array>
+	<key>kVZIdentifyArchievements</key>
+	<array>
+		<string></string>
+	</array>
+	<key>kVZIdentifyMoreGameLink</key>
+	<string>https://itunes.apple.com/developer/jing-lu/id1173790597</string>
+	<key>kVZIdentifyShareContent</key>
+	<string>Do not miss this great game.Download it now and try to break my record!</string>
+	<key>kVZIdentifyDownloadLink</key>
+	<string>https://itunes.apple.com/developer/jing-lu/id1173790597</string>
+	<key>kVZIdentifyAppID</key>
+	<string>1173790597</string>
+	<key>kVZIdentifyInAppPurchases</key>
+	<array>
+		<string>mahjong.hint1</string>
+		<string>mahjong.hint2</string>
+		<string>mahjong.shuffle1</string>
+		<string>mahjong.shuffle2</string>
+		<string>mahjong.sunshine1</string>
+		<string>mahjong.sunshine2</string>
+	</array>
+</dict>
+</plist>
