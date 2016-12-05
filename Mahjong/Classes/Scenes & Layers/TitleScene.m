@@ -94,7 +94,7 @@
     VZButton* btShop = [VZButton buttonWithTitle:nil spriteFrame:[CCSpriteFrame frameWithImageNamed:@"bt_shop.png"]];
     btShop.position = PosShop;
     [btShop setTarget:self selector:@selector(onShop:)];
-    [self addChild:btShop];
+    //[self addChild:btShop]; //Twoking Comment this feature
     
 //    VZButton* btShare = [VZButton buttonWithTitle:nil spriteFrame:[CCSpriteFrame frameWithImageNamed:@"bt_share.png"]];
 //    btShare.position = PosShare;

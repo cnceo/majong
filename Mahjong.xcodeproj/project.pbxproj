@@ -22,6 +22,7 @@
 		7E3C8FBD1DD305EA00118F1E /* VZCommodityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E3C8FB91DD305EA00118F1E /* VZCommodityManager.m */; };
 		7E3C8FBE1DD305EA00118F1E /* VZInAppPurchaseManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E3C8FBB1DD305EA00118F1E /* VZInAppPurchaseManager.m */; };
 		7EBAC1691DD44D13002666D4 /* iTunesArtwork@2x in Resources */ = {isa = PBXBuildFile; fileRef = 7EBAC1681DD44D13002666D4 /* iTunesArtwork@2x */; };
+		97D7A3F11DF5CB2E0041E43B /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97D7A3F01DF5CB2E0041E43B /* Media.xcassets */; };
 		F903BAFC19C0312C002C7D17 /* DailyChallengeGameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = F903BAFB19C0312C002C7D17 /* DailyChallengeGameScene.m */; };
 		F903BB0119C03135002C7D17 /* DailyChallengeCompleteLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = F903BAFE19C03135002C7D17 /* DailyChallengeCompleteLayer.m */; };
 		F903BB0219C03135002C7D17 /* DailyChallengePauseLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = F903BB0019C03135002C7D17 /* DailyChallengePauseLayer.m */; };
@@ -932,6 +933,7 @@
 		7E3C8FBA1DD305EA00118F1E /* VZInAppPurchaseManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInAppPurchaseManager.h; sourceTree = "<group>"; };
 		7E3C8FBB1DD305EA00118F1E /* VZInAppPurchaseManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInAppPurchaseManager.m; sourceTree = "<group>"; };
 		7EBAC1681DD44D13002666D4 /* iTunesArtwork@2x */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iTunesArtwork@2x"; sourceTree = "<group>"; };
+		97D7A3F01DF5CB2E0041E43B /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		F903BAFA19C0312C002C7D17 /* DailyChallengeGameScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DailyChallengeGameScene.h; sourceTree = "<group>"; };
 		F903BAFB19C0312C002C7D17 /* DailyChallengeGameScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DailyChallengeGameScene.m; sourceTree = "<group>"; };
 		F903BAFD19C03135002C7D17 /* DailyChallengeCompleteLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DailyChallengeCompleteLayer.h; sourceTree = "<group>"; };
@@ -2423,6 +2425,7 @@
 		F91C129C19BC8B56000716BA = {
 			isa = PBXGroup;
 			children = (
+				97D7A3F01DF5CB2E0041E43B /* Media.xcassets */,
 				F95A584019BD72BD008CBE0E /* xibs */,
 				F95A584719BD72BD008CBE0E /* xibs_iPad */,
 				F91C153319BC8BAA000716BA /* Common */,
@@ -4825,6 +4828,7 @@
 				F91C1C9A19BC8E14000716BA /* bg_game_5-hd.png in Resources */,
 				F91C1CF919BC8E14000716BA /* lb_sun-hd.png in Resources */,
 				F91C1B6319BC8E14000716BA /* level3-05.tmx in Resources */,
+				97D7A3F11DF5CB2E0041E43B /* Media.xcassets in Resources */,
 				F91C1B1719BC8E14000716BA /* level14-09.tmx in Resources */,
 				F903BBE019C0396D002C7D17 /* bt_season_3-ipadhd.png in Resources */,
 				F91C1CEB19BC8E14000716BA /* lb_clock_1-hd.png in Resources */,
@@ -5669,6 +5673,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -5719,6 +5725,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
