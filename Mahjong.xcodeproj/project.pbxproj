@@ -4273,7 +4273,7 @@
 				ORGANIZATIONNAME = "穆暮";
 				TargetAttributes = {
 					F91C12A419BC8B56000716BA = {
-						DevelopmentTeam = 6TMK9XL7GY;
+						DevelopmentTeam = JQNK74493B;
 					};
 				};
 			};
@@ -5673,7 +5673,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
-				DEVELOPMENT_TEAM = 6TMK9XL7GY;
+				DEVELOPMENT_TEAM = JQNK74493B;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -5708,7 +5708,7 @@
 					"-lsqlite3",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.angrypu.mahjong;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.mahjong.100;
 				PRODUCT_NAME = mahjong;
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
@@ -5723,7 +5723,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
-				DEVELOPMENT_TEAM = 6TMK9XL7GY;
+				DEVELOPMENT_TEAM = JQNK74493B;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -5757,7 +5757,7 @@
 					"-lsqlite3",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.angrypu.mahjong;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.mahjong.100;
 				PRODUCT_NAME = mahjong;
 				PROVISIONING_PROFILE = "";
 				VALIDATE_PRODUCT = YES;
