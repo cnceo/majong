@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="16" tilewidth="24" tileheight="30">
+ <properties>
+  <property name="species" value="20"/>
+ </properties>
+ <tileset firstgid="1" name="mahjong" tilewidth="48" tileheight="60">
+  <image source="mahjong.png" width="48" height="60"/>
+ </tileset>
+ <layer name="layer1" width="32" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGNyAkUJ6qANa+3+gwgndXlzuoLb/CdlLq/Ag195R/1NGU8sdlIKh4n96AVLLp9HynzyaEAAA8gM/bQAIAAA=
+  </data>
+ </layer>
+ <layer name="layer2" width="32" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGNyAkUJ6qANy/THU/I/LvejixMY3seaRKk8uINdecv016n/quoNSQG3/0yr9DzYwUso/XIDW9R8AWm01ugAIAAA=
+  </data>
+ </layer>
+ <layer name="layer3" width="32" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGNyAkUJ6qANy/TFc/Y/LX8SqI9U+agFquWfU/5SpI9U+aoGh4v/BBgZbPNIb0Lr+AwD8NHbVAAgAAA==
+  </data>
+ </layer>
+ <layer name="layer4" width="32" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAWjYOgARhLFRwFpgFbhOBo/1AGj6X8UUBMAABoiBjIACAAA
+  </data>
+ </layer>
+ <layer name="layer5" width="32" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAWjYOgARhLFR8EoGE5gNP2PAmoCAExeVGsACAAA
+  </data>
+ </layer>
+</map>

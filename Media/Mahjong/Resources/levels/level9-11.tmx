@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="16" tilewidth="24" tileheight="30">
+ <properties>
+  <property name="species" value="30"/>
+ </properties>
+ <tileset firstgid="1" name="mahjong" tilewidth="48" tileheight="60">
+  <image source="mahjong.png"/>
+ </tileset>
+ <layer name="layer1" width="32" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGFjAiIPGJY8ujss8QvZQCxAyjxruwaaGVP8Tawc5+vHpGSr+pxTQKj0O9vRPLUCM+wipwVeW4JIjN/0Rq5eegBy/EBMeQyWtURKX+NTQOv4pLQvQ5YkxAwYAPoqmyAAIAAA=
+  </data>
+ </layer>
+ <layer name="layer2" width="32" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGFjAiIPGJY8ujss8QvZQCxAyjxruwaaGVP8Tawc5+vHpGSr+pxTQKj0O9vRPLUCM+wipwVeW4JIjN/0Rq5eegBy/EBMeQyWtURKX+NTQOv4pLQvQ5YkxAwYAPoqmyAAIAAA=
+  </data>
+ </layer>
+ <layer name="layer3" width="32" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGDmAcaAdMIgBqWGDSz26OLHqRgHtwXAI86Huh8HofkY0mh52jVRAqf+pHX4A6djXbAAIAAA=
+  </data>
+ </layer>
+</map>

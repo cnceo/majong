@@ -1,0 +1,102 @@
+
+// 评论
+"Like The Game?" = "评论游戏";
+"Please support us by rating it in the App Store!" = "请评论我们的游戏，谢谢您的支持！";
+"No,Thanks" = "不，谢谢";
+"Remind me later" = "稍后提醒";
+
+// 内购
+"Please Wait"="请稍后";
+"No Internet Connection"="无法连接到网络";
+"Cannot connect to store. Make sure your internet connection is available."="无法连接到苹果商店。请检查网络是否可用。";
+"OK"="好";
+"Warning"="警告";
+"Purchases are disabled"="不可购买";
+"No"="取消";
+"Yes"="确定";
+"Success"="成功";
+"Purchases complete"="购买完成";
+"Purchases restore"="购买恢复";
+"Error"="错误";
+"Purchases failed"="购买失败";
+"Please Wait..."    = "请稍等...";
+"Purchase Succeed"  = "购买成功";
+"Purchase Failed"   = "购买失败";
+"Restore Succeed"   = "恢复购买成功";
+"Product Not Found" = "商品未找到";
+"Welcome!"="你好!";
+"It's your first play, Would you like to restore your game now?"="如果你以前购买过可恢复的功能，点击‘恢复’可以恢复该功能，否则点取消。";
+"Cancel"="取消";
+"Restore"="恢复";
+"Restore Purchases"="恢复购买的产品";
+"If you've previously purchased REMOVE ADS, this will restore it for free."="如果你之前购买了“去广告”，这次将免费恢复。";
+"Cancel"="取消";
+"Ok"="确定";
+"Can't Make Purchases." = "无法购买";
+"Can not connect iTune Store, please try again later." = "无法连接到iTune Stroe, 请稍后重试";
+
+
+
+//帮助
+"[Manual]" = "[玩法介绍]";
+"Match tile pairs until all of the titles are gone. Tap pairs of identical tiles to remove them. If a tile is beneath another tile. Or it has a tile on each side. That tile is locked, And cannot be remove yet." =
+"选中相同的两个麻将就可以消除,直到消除所有的麻将。 如果一个麻将被其它麻将覆盖,或者左右两边都有其它麻将,那么这个麻将就不能被消除。";
+
+
+"[Flower]" = "[花牌]";
+"Flower tiles can match any flower tile." = "您可以将两个不同的花牌配对消除。";
+
+
+"[Season]" = "[季节牌]";
+"Season tiles can match any season tile." = "您可以将两个不同的季节牌配对消除。";
+
+
+"[Holy Light]" = "[光]";
+"Make all tiles selectable until a matching pairs is cleared." = "使所有的麻将变为可选择状态,直到任意一对麻将被消除。";
+
+
+"[Hint]" = "[提示]";
+"Show you a pair of matchable tiles." = "提示一对可以消除的麻将。";
+
+
+"[Shuffle]" = "[洗牌]";
+"Refresh the rest of all tiles." = "重新排列剩余的所有麻将。";
+
+
+"Score" = "分数";
+
+"Score: " = "分数: ";
+
+"Left" = "剩余";
+
+"Combo" = "连击";
+
+
+"No mahjon can match.Please tap Shuffle Button or Holy Light Button." = "没有可消除的麻将。您可以尝试洗牌或者使用光。";
+
+"Best: %.0f" = "最高分: %.0f";
+
+"Review" = "评论";
+
+"To Unlock" = "解锁";
+
+"Pause" = "暂停";
+
+"Level %d" = "关卡 %d";
+
+"Do not miss this great game.Download it now and try to break my record!" = "一个棒极的消除游戏，请不要错过，马上下载，欢乐体验！";
+
+"Props you owned:" = "持有道具:";
+
+"Props to Buy" = "购买道具";
+
+"Loading..." = "加载中...";
+"Can't Load Products." = "无法加载商品";
+
+"Daily Zen" = "每日一禅";
+
+"Stars" = "得星数";
+
+"Accomplished Levels" = "已完成关卡数";
+
+"Accomplished Daily Zen" = "已完成每日一禅数";

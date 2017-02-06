@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="16" tilewidth="24" tileheight="30">
+ <properties>
+  <property name="species" value="30"/>
+ </properties>
+ <tileset firstgid="1" name="mahjong" tilewidth="48" tileheight="60">
+  <image source="mahjong.png" width="48" height="60"/>
+ </tileset>
+ <layer name="layer1" width="32" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGBqAkUiaVvbSSj2x5pDqf1q5g9rqcekfLOZgM4sWaRCbGeSah80MaruNFHlizSckRg8zCeU7QvrIyYdDwf/k2kusfmqXX9RyB6WAVvUStQAAKfI+WAAIAAA=
+  </data>
+ </layer>
+ <layer name="layer2" width="32" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAVDATASSdPKXlqpx6V/sJiDzSxaxAE2M8g1D5sZ1HYbKfLEmk9IjB5moqsh1m+41JFjJ7H6aGEmOe6nhn5K7aWVOygFtCqXqQUAWaqrWAAIAAA=
+  </data>
+ </layer>
+ <layer name="layer3" width="32" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAWjYBQQAxgJ0LSyj176CJmHy1xahAOlZlEr7Ij1Gy51AxWH1PY/vfRTqm+g7aW1edQGABi2sEUACAAA
+  </data>
+ </layer>
+ <layer name="layer4" width="32" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAWjYBQQAxgJ0MMd4PLncPY/sXFM7bRAqTkD5Y7h5v/hDgDukcygAAgAAA==
+  </data>
+ </layer>
+ <layer name="layer5" width="32" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAWjYBQQCxhx0CMB4PLrcA4DYuN5uKYHUv0z3Pw/3AEA+XoDSwAIAAA=
+  </data>
+ </layer>
+</map>
